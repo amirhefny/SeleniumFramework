@@ -1,0 +1,2 @@
+# SeleniumFramework
+Practical automation project.
